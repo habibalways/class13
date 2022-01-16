@@ -1,0 +1,29 @@
+
+.box3{
+    background-image: url(https://www.pngitem.com/pimgs/m/111-1117118_modern-smartwatch-png-clipart-transparent-smart-watch-png.png);
+    background-position:center;
+    background-size: cover;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    margin: auto;
+    
+
+    
+    
+}
+
+.clock{
+    
+    font-weight: 900;
+    font-size: 30px;
+    color: rgb(56, 11, 255);
+    margin-top: 100px;
+    display: inline-block;
+    position: relative;
+    top: 100px;
+}
+.clock span{
+    
+    
+}
